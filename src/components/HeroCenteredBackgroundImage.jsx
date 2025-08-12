@@ -168,7 +168,7 @@ export default function SectionsHeroesSimpleCenteredWithBackgroundImage() {
         </Dialog>
       </header>
 
-      <div className="relative isolate overflow-hidden pt-14 min-h-screen flex items-center">
+      <div className="relative isolate overflow-hidden pt-28 sm:pt-36 md:pt-44 min-h-screen flex items-start md:items-center">
         <div className="absolute inset-0 -z-20 p-20 pt-20 pb-10 px-10 bg-black">
           <video
             autoPlay
