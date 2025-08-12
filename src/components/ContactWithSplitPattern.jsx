@@ -20,10 +20,10 @@ export default function Example() {
                 Share a few details and our team will get back to you promptly with next steps.
               </p>
               <div className="mt-10 space-y-6 text-base/7 text-neutral-300">
-                <p>Marc J. Tropeano PI</p>
+                
                 <p>
                   <a href="tel:13103104884" className="text-neutral-300 hover:text-neutral-200">
-                    310.310.4884
+                    (310) 310-4884
                   </a>
                 </p>
                 <p>
@@ -31,6 +31,12 @@ export default function Example() {
                     marc@la-undercover.com
                   </a>
                 </p>
+                <img
+                  src="https://i0.wp.com/la-undercover.com/wp-content/uploads/2021/04/WHITE-SIG.png?fit=300%2C67&ssl=1"
+                  alt="LA Undercover signature"
+                  className="mt-8 sm:mt-20 w-60 h-auto"
+                />
+                <p>Marc J. Tropeano PI</p>
               </div>
             </div>
             </div>
