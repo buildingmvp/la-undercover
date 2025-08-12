@@ -202,10 +202,10 @@ export default function SectionsHeroesSimpleCenteredWithBackgroundImage() {
             </div>
             <div className="text-center">
               <h1 className="text-5xl font-semibold tracking-tight text-balance text-white sm:text-7xl">
-                California's #1 Private Investigation Firm
+                Uncover the truth with trusted investigators
               </h1>
               <p className="mt-8 text-lg font-medium text-pretty text-gray-300 sm:text-xl/8">
-                From corporate security to domestic matters, our elite team delivers swift, discreet results through world-class surveillance and investigation techniques.
+              From corporate security to domestic matters, California's #1 private investigation firm delivers swift, discreet results through world-class surveillance and investigation techniques.
               </p>
               <div className="mt-10 flex items-center justify-center gap-x-6">
                 <a
