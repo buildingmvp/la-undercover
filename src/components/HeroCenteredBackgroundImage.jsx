@@ -205,7 +205,7 @@ export default function SectionsHeroesSimpleCenteredWithBackgroundImage() {
                 Uncover the truth with trusted investigators
               </h1>
               <p className="mt-8 text-lg font-medium text-pretty text-gray-300 sm:text-xl/8">
-              From corporate security to domestic matters, California's #1 private investigation firm delivers swift, discreet results through world-class surveillance and investigation techniques.
+              California's #1 private investigation firm delivers swift, discreet results through world-class surveillance and investigation techniques.
               </p>
               <div className="mt-10 flex items-center justify-center gap-x-6">
                 <a
